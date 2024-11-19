@@ -1,0 +1,11 @@
+{
+  "name": "react-native-ir-engine-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rebeckerspecialties/react-native-ir-engine-app.git",
+  "author": "Henry Allen <hmallen99@gmail.com>",
+  "license": "UNLICENSED",
+  "workspaces": [
+    "packages/*"
+  ]
+}
